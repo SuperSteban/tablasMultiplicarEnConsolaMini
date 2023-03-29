@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "bases-node",
+  "version": "1.0.0",
+  "description": "tabla multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jorge",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
